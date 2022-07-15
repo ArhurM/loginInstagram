@@ -1,6 +1,6 @@
 # Recriando página do Instagram
 
-Projeto dominando Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Projeto dominando Flexbox, na qual foi feito a interface de login do Instagram! 
 
 ### Os requisitos são:
 
